@@ -1,0 +1,19 @@
+{
+  "name": "30SCJDevOps",
+  "main": "app_server.js",
+  "description": "An introduction to developing Node.js apps on the IBM Cloud platform",
+  "version": "0.1.1",
+  "private": false,
+  "engines": {
+    "node": "6.*"
+  },
+  "scripts": {
+    "start": "node app_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcosdosreis/30SCJDevOps"
+  },
+  "author": "Marcos dos Reis Silva",
+  "license": "Apache-2.0"
+}
